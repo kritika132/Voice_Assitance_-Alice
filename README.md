@@ -1,9 +1,10 @@
-# Voice_Assitance_Alice
+# Voice_Assistance_Alice
 This project focuses on building a basic voice assistant using Python, which enables users to interact with their computer through voice commands. The assistant is designed to recognize spoken input, process commands, and respond accordingly, providing a hands-free experience for various tasks.
+
+
 
 Hii Everyone 👋
 Meet Alice: Your Personal Voice Assistant! 🗣️💻
-
 Alice is a friendly voice assistant built with Python that can make your day a lot easier! Here's how she can help you:
 
 🎤 Listen & Understand: Alice uses speech recognition to understand what you're saying. Just speak, and she’ll know exactly what to do!
